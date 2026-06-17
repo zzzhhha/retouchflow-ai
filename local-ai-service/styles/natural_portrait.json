@@ -1,0 +1,18 @@
+{
+  "name": "natural_portrait",
+  "label": "自然人像",
+  "description": "自然肤色、轻微柔化、保留真实明暗关系。",
+  "parameter_ranges": {
+    "exposure": [-0.8, 0.8],
+    "contrast": [-20, 25],
+    "highlights": [-70, 10],
+    "shadows": [-20, 55],
+    "temperature": [-900, 900],
+    "tint": [-20, 20],
+    "texture": [-25, 15],
+    "clarity": [-20, 20],
+    "vibrance": [-10, 35],
+    "saturation": [-15, 15],
+    "noise_reduction": [0, 45]
+  }
+}

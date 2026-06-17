@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.idea/
+.venv/
+venv/
+local-ai-service/runs/
+local-ai-service/config/settings.json
+local-ai-service/config/photoshop_actions.json
+local-ai-service/.smoke/
+local-ai-service/vendor/
+*.log
+*.lrplugin/*.lrdevplugin
+
+# Personal photo sources and generated retouch outputs
+*.CR2
+*.CR3
+*.ARW
+*.NEF
+*.DNG
+*.RAF
+*.ORF
+*.RW2
+*.TIF
+*.TIFF
+*.PSD
+*.psd
+*.xmp
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

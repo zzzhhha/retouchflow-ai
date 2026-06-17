@@ -1,0 +1,18 @@
+{
+  "name": "kids_soft",
+  "label": "儿童柔和风",
+  "description": "柔和对比、暖中性色温、降低皮肤纹理。",
+  "parameter_ranges": {
+    "exposure": [-0.6, 0.8],
+    "contrast": [-18, 15],
+    "highlights": [-70, 8],
+    "shadows": [-10, 55],
+    "temperature": [-600, 900],
+    "tint": [-15, 18],
+    "texture": [-30, 5],
+    "clarity": [-25, 8],
+    "vibrance": [-5, 35],
+    "saturation": [-12, 12],
+    "noise_reduction": [12, 55]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "outdoor_backlight",
+  "label": "户外逆光",
+  "description": "压高光、提主体暗部、保留逆光空气感。",
+  "parameter_ranges": {
+    "exposure": [-0.8, 0.8],
+    "contrast": [-15, 30],
+    "highlights": [-80, 0],
+    "shadows": [0, 60],
+    "temperature": [-800, 900],
+    "tint": [-20, 20],
+    "texture": [-20, 15],
+    "clarity": [-18, 18],
+    "dehaze": [-8, 15],
+    "vibrance": [-5, 40],
+    "saturation": [-12, 18],
+    "noise_reduction": [0, 45]
+  }
+}

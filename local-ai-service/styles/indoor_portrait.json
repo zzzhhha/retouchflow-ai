@@ -1,0 +1,18 @@
+{
+  "name": "indoor_portrait",
+  "label": "室内写真",
+  "description": "修正室内偏色，提暗部，控制噪声。",
+  "parameter_ranges": {
+    "exposure": [-0.7, 0.8],
+    "contrast": [-18, 25],
+    "highlights": [-75, 10],
+    "shadows": [-15, 60],
+    "temperature": [-900, 700],
+    "tint": [-25, 25],
+    "texture": [-25, 12],
+    "clarity": [-22, 15],
+    "vibrance": [-8, 35],
+    "saturation": [-15, 15],
+    "noise_reduction": [15, 55]
+  }
+}

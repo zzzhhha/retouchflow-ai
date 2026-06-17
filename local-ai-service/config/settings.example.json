@@ -1,0 +1,7 @@
+{
+  "provider": "openai_compatible",
+  "api_key": "replace-with-your-key",
+  "base_url": "https://api.example.com/v1",
+  "model": "your-vision-model-name",
+  "enabled": false
+}

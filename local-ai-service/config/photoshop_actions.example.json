@@ -1,0 +1,60 @@
+{
+  "enabled": true,
+  "actions": {
+    "blemish_cleanup": {
+      "set": "AI Retouch",
+      "action": "Blemish Cleanup",
+      "required": false
+    },
+    "skin_smoothing": {
+      "set": "AI Retouch",
+      "action": "Skin Smoothing",
+      "required": false
+    },
+    "frequency_separation": {
+      "set": "AI Retouch",
+      "action": "Commercial Frequency Separation",
+      "required": false
+    },
+    "commercial_skin_retouch": {
+      "set": "AI Retouch",
+      "action": "Commercial Frequency Separation",
+      "required": false
+    },
+    "face_liquify": {
+      "set": "AI Retouch",
+      "action": "Subtle Face Slimming",
+      "required": false
+    },
+    "face_slimming": {
+      "set": "AI Retouch",
+      "action": "Subtle Face Slimming",
+      "required": false
+    },
+    "face_relight": {
+      "set": "AI Retouch",
+      "action": "Face Relight",
+      "required": false
+    },
+    "sky_light_balance": {
+      "set": "AI Retouch",
+      "action": "Sky Light Balance",
+      "required": false
+    },
+    "architecture_darken": {
+      "set": "AI Retouch",
+      "action": "Architecture Darken",
+      "required": false
+    },
+    "foliage_green_boost": {
+      "set": "AI Retouch",
+      "action": "Foliage Green Boost",
+      "required": false
+    },
+    "foliage_tone_control": {
+      "set": "AI Retouch",
+      "action": "Foliage Tone Control",
+      "required": false
+    }
+  }
+}
