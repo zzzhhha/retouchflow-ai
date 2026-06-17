@@ -1,6 +1,10 @@
 # RetouchFlow AI
 
+English README: [README.en.md](README.en.md)
+
 RetouchFlow AI 是一个实验性的本地 AI 修图流程助手，目标是把 Lightroom Classic、Photoshop 和本地像素处理串成一套可自动执行、可人工确认的批量修图工作流。
+
+中文可以理解为“修图流程 AI 助手”：它不是单一滤镜或单张图片修图工具，而是把 AI 分析、Lightroom 基础修图、Photoshop 精修和人工确认连接起来的一套本地工作流。
 
 当前状态：`v0.1-alpha`。核心流程已经可以用于本地测试，但还不是成熟的商业级成片系统。Photoshop 自动化、动作包调用、本地蒙版分析和像素精修都属于早期集成，需要你在自己的图片和机器环境里验证后再用于正式生产。
 

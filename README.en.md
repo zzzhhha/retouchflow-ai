@@ -3,7 +3,7 @@
 RetouchFlow AI is an experimental local AI retouching workflow assistant for
 Lightroom Classic, Photoshop, and local pixel-based photo editing.
 
-中文说明：[README.zh-CN.md](README.zh-CN.md)
+中文主页：[README.md](README.md)
 
 Status: `v0.1-alpha`. The core workflow is usable for testing, but the project is
 not yet a polished commercial retouch product. Treat Photoshop automation,
